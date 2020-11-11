@@ -8,6 +8,13 @@ Build a command-line application that at a minimum allows the user to view and m
 
   * Update employee roles
 
+
+-----------------------------------------
+
   Install mysql , node and inquirer
 
-  Create schema
+  Created schema and deployed table in mysql
+
+  Created server.js. 
+
+  Wrote prompt functions and connected to localhost
